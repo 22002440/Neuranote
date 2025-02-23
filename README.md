@@ -18,7 +18,7 @@ NeuraNotes is a **standalone, cross-platform** application that combines a **cal
 ### Project Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your_username/NeuraNotes.git
+git clone https://github.com/22002440/NeuraNotes.git
 cd NeuraNotes
 
 # Install dependencies
